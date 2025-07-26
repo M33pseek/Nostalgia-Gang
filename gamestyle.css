@@ -7,11 +7,11 @@ html {
   border: 1px solid red;
   margin: 0 auto;
   display: block;
-  background-image: "/game/field-background.jpg";
+  background-image: url("game/field-background.jpg");
   background-size: 100% 100%;
 }
 
 body {
-  background-image: url("../game/background.jpg");
+  background-image: url("game/background.jpg");
   background-repeat: repeat;
 }
